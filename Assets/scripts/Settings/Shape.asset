@@ -18,9 +18,9 @@ MonoBehaviour:
     useFirstLayerAsMask: 0
     noiseSettings:
       filterType: 0
-      strength: 0.15
+      strength: 0.22
       numLayers: 5
-      roughness: 0.97
+      roughness: 2.63
       baseRoughness: 1.12
       persistence: -0.27
       centre: {x: 0, y: 0, z: 0}
@@ -29,7 +29,7 @@ MonoBehaviour:
     useFirstLayerAsMask: 1
     noiseSettings:
       filterType: 0
-      strength: 1
+      strength: 0.37
       numLayers: 4
       roughness: 2.21
       baseRoughness: 2.92
